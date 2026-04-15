@@ -1,4 +1,4 @@
-# Hi, I'm Mayank 👋
+# Hi, I'm Mayank
 
 Product Manager focused on turning user behavior into revenue through PLG, monetization, and experimentation.
 
@@ -6,7 +6,7 @@ I build and scale self-serve SaaS growth systems — from onboarding and activat
 
 ---
 
-## ⚡ What I work on
+## What I work on
 
 - Growth systems: onboarding, activation funnels, retention loops  
 - Monetization: pricing strategy, checkout optimization, subscriptions  
@@ -16,7 +16,7 @@ I build and scale self-serve SaaS growth systems — from onboarding and activat
 
 ---
 
-## 📈 Selected Impact
+## Selected Impact
 
 - Increased trial → paid conversion by **127%** through onboarding and activation redesign  
 - Improved checkout conversion by **44%** via experimentation and UX simplification  
@@ -26,7 +26,7 @@ I build and scale self-serve SaaS growth systems — from onboarding and activat
 
 ---
 
-## 🧠 How I think
+## How I think
 
 - Start with **user behavior, not features**  
 - Optimize for **business outcomes, not output**  
@@ -35,7 +35,7 @@ I build and scale self-serve SaaS growth systems — from onboarding and activat
 
 ---
 
-## 🚀 Currently building
+## Currently building
 
 - AI-powered product and growth systems  
 - LLM-based experimentation and decisioning tools  
@@ -43,11 +43,11 @@ I build and scale self-serve SaaS growth systems — from onboarding and activat
 
 ---
 
-## 🤝 Let’s connect
+##  Let’s connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mayank-jha-303348137/  
 - 📫 Email: mayank.jha2507@gmail.com  
 
 ---
 
-💡 Always open to conversations on product, growth, and AI.
+Always open to conversations on product, growth, and AI.
