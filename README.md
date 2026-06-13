@@ -20,13 +20,13 @@ I build and scale self-serve SaaS growth systems — onboarding, pricing, checko
 
 I started coding to understand what I was shipping — and to prototype ideas without waiting for eng bandwidth. Every repo here is a real experiment, not a tutorial clone.
 
-| Repo | What it is |
-|------|-----------|
-| [MarketCopilot](https://github.com/MayankJha2507/MarketCopilot) | AI stock market copilot for NSE/BSE — insights, summaries, reliability-first |
-| [SIPSense](https://github.com/MayankJha2507/SIP-Engine-v1.0-deterministic-allocation-stable-) | Deterministic SIP allocation engine — distributes investments by risk & market signals |
-| [valuation-platform](https://github.com/MayankJha2507/valuation-platform) | Company valuation tool — experimenting with AI-assisted financial modeling |
-| [experiment-feasibility-engine](https://github.com/MayankJha2507/experiment-feasibility-engine) | A/B test idea evaluator — estimates effort and ranks experiments by velocity impact |
 
+| Project | What it is |
+|---------|-------------|
+| [VWO-AI-Grader](https://github.com/MayankJha2507/VWO-AI-Grader) | AI-powered AEO (Answer Engine Optimization) analysis tool that helps companies understand and improve their visibility in AI answer engines like ChatGPT, Perplexity, and Gemini. |
+| [experiment-feasibility-engine](https://github.com/MayankJha2507/experiment-feasibility-engine) | AI-assisted system that evaluates A/B test ideas, estimates implementation effort, and recommends high-velocity, low-dependency experiments. |
+| [MarketCopilot](https://github.com/MayankJha2507/MarketCopilot) | AI-powered stock market copilot for NSE/BSE, providing insights, summaries, and reliability-first market intelligence for retail investors. |
+| [firepath](https://github.com/MayankJha2507/firepath) | India-first FIRE (Financial Independence, Retire Early) planning platform for modeling wealth creation, retirement goals, and long-term financial outcomes. |
 ---
 
 ## Selected impact
